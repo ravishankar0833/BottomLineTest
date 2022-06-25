@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-25T14:23:15Z" name="Suite" finished-at="2022-06-25T14:24:49Z" duration-ms="93631">
+    <groups>
+    </groups>
+    <test started-at="2022-06-25T14:23:15Z" name="Test" finished-at="2022-06-25T14:24:49Z" duration-ms="93631">
+      <class name="com.bottomline.com.amazontests.Amazontest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bottomline.com.amazontests.Amazontest@409c54f]" started-at="2022-06-25T19:53:15Z" name="setUp" finished-at="2022-06-25T19:53:28Z" duration-ms="13160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HapptPathTest()[pri:0, instance:com.bottomline.com.amazontests.Amazontest@409c54f]" started-at="2022-06-25T19:53:28Z" name="HapptPathTest" finished-at="2022-06-25T19:54:48Z" duration-ms="79463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HapptPathTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bottomline.com.amazontests.Amazontest@409c54f]" started-at="2022-06-25T19:54:48Z" name="teardown" finished-at="2022-06-25T19:54:49Z" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.bottomline.com.amazontests.Amazontest -->
+      <class name="com.bottomline.com.utils.BaseClass">
+        <test-method is-config="true" signature="intializeGlobalVariables()[pri:0, instance:com.bottomline.com.utils.BaseClass@7d898981]" started-at="2022-06-25T19:53:15Z" name="intializeGlobalVariables" finished-at="2022-06-25T19:53:15Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeGlobalVariables -->
+      </class> <!-- com.bottomline.com.utils.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

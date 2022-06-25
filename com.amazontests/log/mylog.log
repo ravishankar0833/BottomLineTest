@@ -1,0 +1,132 @@
+2022-06-25 19:38:15 [main] INFO  Amazon tests Automation:15 - Suite SUITE execution Started
+2022-06-25 19:38:15 [main] INFO  Amazon tests Automation:31 - Global Variables intialization started
+2022-06-25 19:38:15 [main] INFO  Amazon tests Automation:36 - Global Variables intialization is completed
+2022-06-25 19:38:35 [main] INFO  Amazon tests Automation:21 - Page has loaded
+2022-06-25 19:38:35 [main] INFO  Amazon tests Automation:18 - HapptPathTest Started
+2022-06-25 19:38:35 [main] INFO  Amazon tests Automation:19 - **********************************************
+2022-06-25 19:38:49 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:38:49 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //span[@class='a-size-base a-color-base' and contains(text(),'English')]] completed
+2022-06-25 19:38:54 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:38:54 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:38:58 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:38:58 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:00 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:01 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:02 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:02 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:04 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:04 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:05 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:05 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:12 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:12 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:15 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:15 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:25 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:26 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:29 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:29 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:31 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:31 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:33 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:33 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:35 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:35 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:37 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:37 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:40 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:40 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:41 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:41 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:43 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:43 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:50 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:50 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:52 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:52 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:55 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:55 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:39:58 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:39:58 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:00 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:00 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:02 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:02 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:05 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:05 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:08 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:08 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:10 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:10 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:13 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:13 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:15 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:40:15 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (b4de9d6e3ebdb55616a5d301086fa56c)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:40:29 [main] INFO  Amazon tests Automation:24 - HapptPathTest Success
+2022-06-25 19:40:31 [main] INFO  Amazon tests Automation:20 - Suite SUITE execution Finished
+2022-06-25 19:53:15 [main] INFO  Amazon tests Automation:15 - Suite SUITE execution Started
+2022-06-25 19:53:15 [main] INFO  Amazon tests Automation:31 - Global Variables intialization started
+2022-06-25 19:53:15 [main] INFO  Amazon tests Automation:36 - Global Variables intialization is completed
+2022-06-25 19:53:28 [main] INFO  Amazon tests Automation:21 - Page has loaded
+2022-06-25 19:53:28 [main] INFO  Amazon tests Automation:18 - HapptPathTest Started
+2022-06-25 19:53:28 [main] INFO  Amazon tests Automation:19 - **********************************************
+2022-06-25 19:53:32 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:32 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //span[@class='a-size-base a-color-base' and contains(text(),'English')]] completed
+2022-06-25 19:53:35 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:35 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:37 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:37 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:40 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:40 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:42 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:42 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:44 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:44 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:46 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:46 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:49 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:49 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:51 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:51 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:53 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:53 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:56 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:56 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:53:58 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:53:58 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:00 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:00 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:03 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:03 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:05 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:05 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:07 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:07 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:09 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:09 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:12 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:12 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:14 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:14 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:17 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:17 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:19 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:19 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:21 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:21 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:23 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:23 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:25 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:25 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:28 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:28 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:30 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:30 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:32 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:32 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:34 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:34 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:36 [main] INFO  Amazon tests Automation:53 - Scroll to 0, -25 is completed
+2022-06-25 19:54:36 [main] INFO  Amazon tests Automation:41 - Scroll to Webelement:[[ChromeDriver: chrome on WINDOWS (2cb233c98576082d21df1d2e04034581)] -> xpath: //a[@class='s-pagination-item s-pagination-next s-pagination-button s-pagination-separator']] completed
+2022-06-25 19:54:48 [main] INFO  Amazon tests Automation:24 - HapptPathTest Success
+2022-06-25 19:54:49 [main] INFO  Amazon tests Automation:20 - Suite SUITE execution Finished
