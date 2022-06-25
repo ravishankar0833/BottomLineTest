@@ -1,5 +1,5 @@
 # BottomLineTest
-This is a UI sceanrio for book search in Amazon website with TestNG Framework
+This is a UI scenario for book search in Amazon website with TestNG Framework
 
 #Features of the Framework
 1. This test are of TestNG Framework written in Java language using Selenium library
